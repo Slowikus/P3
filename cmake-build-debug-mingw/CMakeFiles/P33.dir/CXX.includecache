@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/Gra.h
+plansza.h
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/plansza.h
+algorithm
+-
+
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/main.cpp
+iostream
+-
+Gra.h
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/Gra.h
+
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/plansza.cpp
+plansza.h
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/plansza.h
+
+D:/AAA UCZELNIA/SEM4/PAMSI/zapaas/P33/plansza.h
+iostream
+-
+memory
+-
+vector
+-
+algorithm
+-
+
